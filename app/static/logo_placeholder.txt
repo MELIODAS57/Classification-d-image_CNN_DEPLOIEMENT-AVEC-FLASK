@@ -1,0 +1,3 @@
+<!-- This is a placeholder logo file. Replace this with your actual logo image.
+The logo should be a PNG file named 'logo.png' and placed in the app/static/ folder.
+Recommended size: 44x44 pixels or larger with square aspect ratio. -->

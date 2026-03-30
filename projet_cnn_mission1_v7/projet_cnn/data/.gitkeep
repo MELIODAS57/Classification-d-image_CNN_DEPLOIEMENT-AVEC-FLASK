@@ -1,0 +1,3 @@
+# Ce dossier est destiné aux jeux de données bruts.
+# CIFAR-10 est téléchargé automatiquement par tf.keras.datasets.cifar10.load_data()
+# et mis en cache dans ~/.keras/datasets/
